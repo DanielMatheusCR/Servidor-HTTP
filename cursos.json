@@ -1,0 +1,17 @@
+{
+  "Cursos": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "sigla": "ADS"
+    },
+    {
+      "curso": "Ciência da Computação",
+      "sigla": "CC"
+    },
+    {
+      "curso": "Sistemas de Informação",
+      "sigla": "SI"
+    }
+  ]
+}
+
